@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\SecureBackupJobManager\SecureBackupJobManager\bin\Debug\net8.0\SecureBackupJobManager.exe
+C:\Users\Jeff\source\repos\SecureBackupJobManager\SecureBackupJobManager\bin\Debug\net8.0\SecureBackupJobManager.deps.json
+C:\Users\Jeff\source\repos\SecureBackupJobManager\SecureBackupJobManager\bin\Debug\net8.0\SecureBackupJobManager.runtimeconfig.json
+C:\Users\Jeff\source\repos\SecureBackupJobManager\SecureBackupJobManager\bin\Debug\net8.0\SecureBackupJobManager.dll
+C:\Users\Jeff\source\repos\SecureBackupJobManager\SecureBackupJobManager\bin\Debug\net8.0\SecureBackupJobManager.pdb
+C:\Users\Jeff\source\repos\SecureBackupJobManager\SecureBackupJobManager\obj\Debug\net8.0\SecureBackupJobManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\SecureBackupJobManager\SecureBackupJobManager\obj\Debug\net8.0\SecureBackupJobManager.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\SecureBackupJobManager\SecureBackupJobManager\obj\Debug\net8.0\SecureBackupJobManager.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\SecureBackupJobManager\SecureBackupJobManager\obj\Debug\net8.0\SecureBackupJobManager.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\SecureBackupJobManager\SecureBackupJobManager\obj\Debug\net8.0\SecureBackupJobManager.dll
+C:\Users\Jeff\source\repos\SecureBackupJobManager\SecureBackupJobManager\obj\Debug\net8.0\refint\SecureBackupJobManager.dll
+C:\Users\Jeff\source\repos\SecureBackupJobManager\SecureBackupJobManager\obj\Debug\net8.0\SecureBackupJobManager.pdb
+C:\Users\Jeff\source\repos\SecureBackupJobManager\SecureBackupJobManager\obj\Debug\net8.0\SecureBackupJobManager.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\SecureBackupJobManager\SecureBackupJobManager\obj\Debug\net8.0\ref\SecureBackupJobManager.dll
